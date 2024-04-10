@@ -12,4 +12,4 @@ My name is Yufan(Frank) Liu. I have the following qualities:
 What else do you need?
 
 ### My story
-I am a student majoring Artificial Intelligence. I'm particularly interested in Large Language Models.
+I am a student majoring in Artificial Intelligence. I'm particularly interested in **Large Language Models**.
