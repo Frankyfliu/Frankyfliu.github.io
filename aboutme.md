@@ -12,7 +12,7 @@ I'm a passionate AI researcher and algorithm engineer with an **MSc in Metaverse
 
 ### 🎓 Education
 
-- **MSc in Metaverse Technology (with Credit)**
+- **MSc in Metaverse Technology (with Credit)**  
   *The Hong Kong Polytechnic University* | Sep 2024 – Nov 2025  
   Core: Extended Reality, Blockchain, Metaverse Economics, NLP
 
